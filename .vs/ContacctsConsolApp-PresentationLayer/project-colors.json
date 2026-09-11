@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce815d32-de2a-4094-9864-5a83f0cdd033": {
+      "ProjectGuid": "ce815d32-de2a-4094-9864-5a83f0cdd033",
+      "DisplayName": "ContacctsConsolApp-PresentationLayer",
+      "ColorIndex": 0
+    },
+    "30afc2e1-98ec-4ce2-8d09-8f0facb1b5fd": {
+      "ProjectGuid": "30afc2e1-98ec-4ce2-8d09-8f0facb1b5fd",
+      "DisplayName": "ContactsBusinessLayer",
+      "ColorIndex": 1
+    },
+    "dbc58e05-3b2f-4de6-9b77-cb4b646543b0": {
+      "ProjectGuid": "dbc58e05-3b2f-4de6-9b77-cb4b646543b0",
+      "DisplayName": "ContactsDataAccessLayer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

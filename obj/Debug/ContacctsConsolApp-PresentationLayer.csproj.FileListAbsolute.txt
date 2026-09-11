@@ -1,0 +1,13 @@
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\bin\Debug\ContacctsConsolApp-PresentationLayer.exe.config
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\bin\Debug\ContacctsConsolApp-PresentationLayer.exe
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\bin\Debug\ContacctsConsolApp-PresentationLayer.pdb
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\bin\Debug\ContactsBusinessLayer.dll
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\bin\Debug\ContactsDataAccessLayer.dll
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\bin\Debug\ContactsBusinessLayer.pdb
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\bin\Debug\ContactsDataAccessLayer.pdb
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\obj\Debug\ContacctsConsolApp-PresentationLayer.csproj.AssemblyReference.cache
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\obj\Debug\ContacctsConsolApp-PresentationLayer.csproj.SuggestedBindingRedirects.cache
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\obj\Debug\ContacctsConsolApp-PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\obj\Debug\ContacctsConsolApp-PresentationLayer.csproj.CopyComplete
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\obj\Debug\ContacctsConsolApp-PresentationLayer.exe
+D:\Abo-Hadhood Attachments\Connecting C# With SQLServer Course\ContacctsConsolApp-PresentationLayer\obj\Debug\ContacctsConsolApp-PresentationLayer.pdb
